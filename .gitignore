@@ -1,0 +1,47 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/calculator/node_modules
+/calculator/.pnp
+/calculator/.pnp.js
+
+# testing
+/calculator/coverage
+
+# production
+/calculator/build
+
+# misc
+/calculator/.DS_Store
+/calculator/.env.local
+/calculator/.env.development.local
+/calculator/.env.test.local
+/calculator/.env.production.local
+
+/calculator/npm-debug.log*
+/calculator/yarn-debug.log*
+/calculator/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/todo/node_modules
+/todo/.pnp
+/todo/.pnp.js
+
+# testing
+/todo/coverage
+
+# production
+/todo/build
+
+# misc
+/todo/.DS_Store
+/todo/.env.local
+/todo/.env.development.local
+/todo/.env.test.local
+/todo/.env.production.local
+
+/todo/npm-debug.log*
+/todo/yarn-debug.log*
+/todo/yarn-error.log*
